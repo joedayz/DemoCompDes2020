@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kpgum2xmTLWX1ctID7/Z6AD+21bcIh0+DIOTLp6WkRjiACpuKl+/KhGg2o0w66TV6AwnBWk1RNJ3dUiQ+xRq7w==",
+  "success": true,
+  "projectFilePath": "/Users/josediaz/Downloads/DemoCompDes2020/microservicios/frontend/frontend.csproj",
+  "expectedPackageFiles": [
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.configuration/3.1.3/microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.3/microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.configuration.keyperfile/3.1.3/microsoft.extensions.configuration.keyperfile.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.3/microsoft.extensions.fileproviders.abstractions.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.3/microsoft.extensions.fileproviders.physical.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.3/microsoft.extensions.filesystemglobbing.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.extensions.primitives/3.1.3/microsoft.extensions.primitives.3.1.3.nupkg.sha512",
+    "/Users/josediaz/.nuget/packages/microsoft.tye.extensions.configuration/0.2.0-alpha.20258.3/microsoft.tye.extensions.configuration.0.2.0-alpha.20258.3.nupkg.sha512"
+  ],
+  "logs": []
+}
